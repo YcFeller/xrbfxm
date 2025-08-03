@@ -2,7 +2,7 @@
   "item": {
     "name": "Xr缤纷色彩表盘",
     "description": "Xr缤纷色彩表盘，多样式多组件设计，为您的设备增添一份美好~",
-    "preview": [],
+    "preview": ["bfzt1.png","zhujian1.png"],
     "icon": "xrbfxm-icon.png",
     "source_url": "https://github.com/YcFeller/xrbfxm",
     "author": [
